@@ -1,0 +1,5 @@
+./venv
+coding-style-reports.log
+script
+script/map.txt
+cmake-build-debug
